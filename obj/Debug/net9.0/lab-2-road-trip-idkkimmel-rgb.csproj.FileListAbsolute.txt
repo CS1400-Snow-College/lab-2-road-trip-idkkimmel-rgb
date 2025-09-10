@@ -1,0 +1,15 @@
+C:\Users\idkki\source\repos\Homeworks\lab-2-road-trip-idkkimmel-rgb\obj\Debug\net9.0\lab-2-road-trip-idkkimmel-rgb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\idkki\source\repos\Homeworks\lab-2-road-trip-idkkimmel-rgb\obj\Debug\net9.0\lab-2-road-trip-idkkimmel-rgb.AssemblyInfoInputs.cache
+C:\Users\idkki\source\repos\Homeworks\lab-2-road-trip-idkkimmel-rgb\obj\Debug\net9.0\lab-2-road-trip-idkkimmel-rgb.AssemblyInfo.cs
+C:\Users\idkki\source\repos\Homeworks\lab-2-road-trip-idkkimmel-rgb\obj\Debug\net9.0\lab-2-road-trip-idkkimmel-rgb.csproj.CoreCompileInputs.cache
+C:\Users\idkki\source\repos\Homeworks\lab-2-road-trip-idkkimmel-rgb\obj\Debug\net9.0\lab-2-road-trip-idkkimmel-rgb.sourcelink.json
+C:\Users\idkki\source\repos\Homeworks\lab-2-road-trip-idkkimmel-rgb\bin\Debug\net9.0\lab-2-road-trip-idkkimmel-rgb.exe
+C:\Users\idkki\source\repos\Homeworks\lab-2-road-trip-idkkimmel-rgb\bin\Debug\net9.0\lab-2-road-trip-idkkimmel-rgb.deps.json
+C:\Users\idkki\source\repos\Homeworks\lab-2-road-trip-idkkimmel-rgb\bin\Debug\net9.0\lab-2-road-trip-idkkimmel-rgb.runtimeconfig.json
+C:\Users\idkki\source\repos\Homeworks\lab-2-road-trip-idkkimmel-rgb\bin\Debug\net9.0\lab-2-road-trip-idkkimmel-rgb.dll
+C:\Users\idkki\source\repos\Homeworks\lab-2-road-trip-idkkimmel-rgb\bin\Debug\net9.0\lab-2-road-trip-idkkimmel-rgb.pdb
+C:\Users\idkki\source\repos\Homeworks\lab-2-road-trip-idkkimmel-rgb\obj\Debug\net9.0\lab-2-road-trip-idkkimmel-rgb.dll
+C:\Users\idkki\source\repos\Homeworks\lab-2-road-trip-idkkimmel-rgb\obj\Debug\net9.0\refint\lab-2-road-trip-idkkimmel-rgb.dll
+C:\Users\idkki\source\repos\Homeworks\lab-2-road-trip-idkkimmel-rgb\obj\Debug\net9.0\lab-2-road-trip-idkkimmel-rgb.pdb
+C:\Users\idkki\source\repos\Homeworks\lab-2-road-trip-idkkimmel-rgb\obj\Debug\net9.0\lab-2-road-trip-idkkimmel-rgb.genruntimeconfig.cache
+C:\Users\idkki\source\repos\Homeworks\lab-2-road-trip-idkkimmel-rgb\obj\Debug\net9.0\ref\lab-2-road-trip-idkkimmel-rgb.dll
